@@ -98,7 +98,16 @@ void grabar1ValorMasHumAmb(){
 
 // Temperatura ambiente
 void grabar1ValorMasTempAmb(){
-    float temperatura = sensorTHAmb.readTemperature();
+    bool valorCorrecto = false;
+    int contLectura=0;
+    float temperatura;
+    do {
+      temperatura = sensorTHAmb.readTemperature();
+      contLectura++;
+      if (temperatura<80) {
+        valorCorrecto = true;
+      }
+    } while (!valorCorrecto && contLectura<5);  
     EEPROM.put(posEscrTempAmb,temperatura);
     posEscrTempAmb=posEscrTempAmb+4;
 }
