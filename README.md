@@ -1,3 +1,4 @@
 # huertoLogEasy
 Trabajo sobre los registradores de valores para el huerto del instituto.
-Cambio con el usuario sergylafu <3
+
+Cambio para todos
