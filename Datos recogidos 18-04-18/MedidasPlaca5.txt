@@ -1,6 +1,9 @@
 Fecha: 18/04/2018
-Tipo de d�a: soleado
-N�mero medidor: Placa 5
+Tipo de día: soleado
+Número medidor: Placa 5
+
+ANOTACIÓN: La primera medida de temperatura suelo falla (85º).
+
 Luz: 7 %
 Luz: 7 %
 Luz: 8 %
