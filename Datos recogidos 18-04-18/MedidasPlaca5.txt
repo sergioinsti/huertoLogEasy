@@ -1,0 +1,71 @@
+Fecha: 18/04/2018
+Tipo de día: soleado
+Número medidor: Placa 5
+
+ANOTACIÓN: La primera medida de temperatura suelo falla (85º).
+
+Luz: 7 %
+Luz: 7 %
+Luz: 8 %
+Luz: 98 %
+Luz: 99 %
+Luz: 99 %
+Luz: 100 %
+Luz: 98 %
+Luz: 98 %
+Luz: 98 %
+Luz: 2 %
+Luz: 2 %
+Luz: 2 %
+Temperatura: 28.60
+Temperatura: 11.80
+Temperatura: 10.20
+Temperatura: 9.10
+Temperatura: 8.20
+Temperatura: 14.20
+Temperatura: 28.90
+Temperatura: 32.30
+Temperatura: 20.70
+Temperatura: 20.20
+Temperatura: 18.20
+Temperatura: 15.20
+Temperatura: 13.70
+Humedad: 18.50
+Humedad: 66.40
+Humedad: 71.40
+Humedad: 73.60
+Humedad: 72.80
+Humedad: 53.60
+Humedad: 17.60
+Humedad: 8.10
+Humedad: 26.40
+Humedad: 26.10
+Humedad: 38.50
+Humedad: 46.90
+Humedad: 49.10
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 89%
+Humedad suelo = 89%
+Humedad suelo = 88%
+Humedad suelo = 88%
+Humedad suelo = 87%
+Humedad suelo = 87%
+Humedad suelo = 86%
+La temperatura del suelo es = 85.00
+La temperatura del suelo es = 11.19
+La temperatura del suelo es = 10.44
+La temperatura del suelo es = 9.81
+La temperatura del suelo es = 9.13
+La temperatura del suelo es = 9.31
+La temperatura del suelo es = 11.50
+La temperatura del suelo es = 18.25
+La temperatura del suelo es = 16.06
+La temperatura del suelo es = 14.75
+La temperatura del suelo es = 14.13
+La temperatura del suelo es = 13.13
+La temperatura del suelo es = 12.38
