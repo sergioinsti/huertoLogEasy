@@ -2,7 +2,7 @@ Fecha: 18/04/2018
 Tipo de dia: Soleado
 Numero de medidor: 1
 
-ANOTACION: Programa de grabado de medidas incorrecto, cable negro del sensor temperatura suelo desoldado.
+ANOTACION: Programa de grabado de medidas incorrecto, cable negro del sensor temperatura suelo desoldado (puede que al recogerlo, ya que tiene medidas grabadas). El programa habrá grabado todas las medidas del instante en que se conectó (aprox: 2pm de 17 04 2018).
 
 Luz: 79 %
 Luz: 79 %
