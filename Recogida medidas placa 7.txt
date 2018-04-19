@@ -1,0 +1,71 @@
+Fecha: 18/04/2018
+Tipo de día: Soleado
+Núm.medidor: 7
+
+Medidas tomadas:
+
+Luz: 6 %
+Luz: 6 %
+Luz: 6 %
+Luz: 92 %
+Luz: 94 %
+Luz: 94 %
+Luz: 94 %
+Luz: 94 %
+Luz: 255 %
+Luz: 255 %
+Luz: 255 %
+Luz: 255 %
+Luz: 255 %
+Temperatura: 29.50
+Temperatura: 11.10
+Temperatura: 9.40
+Temperatura: 8.30
+Temperatura: 7.60
+Temperatura: 22.70
+Temperatura: 29.50
+Temperatura: 36.60
+Temperatura: nan
+Temperatura: nan
+Temperatura: nan
+Temperatura: nan
+Temperatura: nan
+Humedad: 28.60
+Humedad: 75.30
+Humedad: 78.90
+Humedad: 81.70
+Humedad: 81.20
+Humedad: 45.60
+Humedad: 27.30
+Humedad: 19.30
+Humedad: nan
+Humedad: nan
+Humedad: nan
+Humedad: nan
+Humedad: nan
+Humedad suelo = 66%
+Humedad suelo = 66%
+Humedad suelo = 67%
+Humedad suelo = 66%
+Humedad suelo = 67%
+Humedad suelo = 69%
+Humedad suelo = 70%
+Humedad suelo = 70%
+Humedad suelo = -1%
+Humedad suelo = -1%
+Humedad suelo = -1%
+Humedad suelo = -1%
+Humedad suelo = -1%
+La temperatura del suelo es = 85.00
+La temperatura del suelo es = 12.56
+La temperatura del suelo es = 11.44
+La temperatura del suelo es = 10.44
+La temperatura del suelo es = 9.56
+La temperatura del suelo es = 12.63
+La temperatura del suelo es = 18.19
+La temperatura del suelo es = 22.31
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
