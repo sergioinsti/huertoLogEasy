@@ -1,6 +1,6 @@
 Fecha: 18/04/2018
-Tipo de día: Soleado
-Número de medidor: 1
+Tipo de dia: Soleado
+Numero de medidor: 1
 
 Luz: 79 %
 Luz: 79 %
