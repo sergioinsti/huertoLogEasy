@@ -2,6 +2,8 @@ Fecha: 18/04/18
 Tipo de dia: Soleado
 Num. medidor : 4
 
+ANOTACIÓN: Temperatura suelo: cable desoldado. Lecturas de ese valor erróneo.
+
 Luz: 1 %
 Luz: 1 %
 Luz: 1 %
