@@ -2,6 +2,9 @@ Fecha: 18/04/2018
 Tipo de día: Soleado
 Número medidor: 2
 
+ANOTACIÓN: Error en primera lectura de temperatura suelo (se supone que después de 5 lecturas en ese mismo momento).
+Este medidor empezó 40 minutos después del resto.
+
 Luz: 4 %
 Luz: 4 %
 Luz: 4 %
