@@ -3,6 +3,8 @@ Tipo de dia: Soleado
 Num. medidor : 4
 
 ANOTACIÓN: Temperatura suelo: cable desoldado. Lecturas de ese valor erróneo.
+Se sospecha también que algún valor de temperatura puede no ser correcto, como el de 31.40º al principio, o
+o el de 35.90º en medio. El día anterior hizo bueno, y el propio día también, pero parece excesivo.
 
 Luz: 1 %
 Luz: 1 %
