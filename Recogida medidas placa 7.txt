@@ -2,6 +2,9 @@ Fecha: 18/04/2018
 Tipo de día: Soleado
 Núm.medidor: 7
 
+ANOTACIÓN: 5 últimas medidas mal. Estaba bajo la manta.
+La primera de humedad suelo MAL.
+
 Medidas tomadas:
 
 Luz: 6 %
