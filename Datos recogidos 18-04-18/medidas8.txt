@@ -1,0 +1,72 @@
+Fecha: 18/04/2018
+Tipo de dia: Soleado
+Num.medidor: 8
+
+ANOTACIÓN: las últimas 4 medidas parece que son erróneas. Puede que se haya desconectado (¿viento?) 
+la alimentación de los sensores mientras la placa Arduino ha seguido midiendo. 
+
+Luz: 1 %
+Luz: 1 %
+Luz: 1 %
+Luz: 98 %
+Luz: 99 %
+Luz: 99 %
+Luz: 99 %
+Luz: 99 %
+Luz: 99 %
+Luz: 30 %
+Luz: 30 %
+Luz: 31 %
+Luz: 30 %
+Temperatura: 23.40
+Temperatura: 11.80
+Temperatura: 10.60
+Temperatura: 9.60
+Temperatura: 9.50
+Temperatura: 22.10
+Temperatura: 31.20
+Temperatura: 27.30
+Temperatura: 20.90
+Temperatura: 0.00
+Temperatura: 0.00
+Temperatura: 0.00
+Temperatura: 0.00
+Humedad: 40.80
+Humedad: 72.60
+Humedad: 75.40
+Humedad: 76.90
+Humedad: 73.30
+Humedad: 38.90
+Humedad: 27.30
+Humedad: 24.50
+Humedad: 36.50
+Humedad: nan
+Humedad: nan
+Humedad: nan
+Humedad: nan
+Humedad suelo = 35%
+Humedad suelo = 36%
+Humedad suelo = 36%
+Humedad suelo = 36%
+Humedad suelo = 38%
+Humedad suelo = 42%
+Humedad suelo = 46%
+Humedad suelo = 43%
+Humedad suelo = 42%
+Humedad suelo = -1%
+Humedad suelo = -1%
+Humedad suelo = -1%
+Humedad suelo = -1%
+La temperatura del suelo es = 85.00
+La temperatura del suelo es = 11.38
+La temperatura del suelo es = 10.63
+La temperatura del suelo es = 10.00
+La temperatura del suelo es = 9.44
+La temperatura del suelo es = 13.88
+La temperatura del suelo es = 19.37
+La temperatura del suelo es = 23.56
+La temperatura del suelo es = 17.50
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
+La temperatura del suelo es = nan
