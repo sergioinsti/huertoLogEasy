@@ -2,7 +2,7 @@ Fecha : 18/04/18;
 Tipo de dia: Soleado;
 Numero medidor : 3;
 
-
+ANOTACIONES: El mismo fallo que todos en la primera medida de temperatura suelo.
 
 Luz: 1 %
 Luz: 1 %
