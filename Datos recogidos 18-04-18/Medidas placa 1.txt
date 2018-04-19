@@ -2,6 +2,8 @@ Fecha: 18/04/2018
 Tipo de dia: Soleado
 Numero de medidor: 1
 
+ANOTACIÓN: Programa de grabado de medidas incorrecto, cable negro del sensor temperatura suelo desoldado.
+
 Luz: 79 %
 Luz: 79 %
 Luz: 78 %
